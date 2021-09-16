@@ -8,25 +8,25 @@ Well, with an urge to play, I thought to build something first and play in the p
 ## *CONTENTS*
  ## COMPUTER GUESS
  ***
-    Well you will have to help the computer in guessing a number, you have previously stored in you head by giving hints
+    Well you will have to help the computer in guessing a number, you have previously stored in your head by giving hints
     like -> its too high/ its too low..
     Tricking the computer this time ;)
     fun..right?
     
  ## MADLIBS
  ***
-    This ones filled with so much and humour XD
+    This ones filled with so much fun and humour XD
     You will have to give certain words of your choice as input depending on the description (verb/adjective/noun). The program
     would set them in certain missing locations of a previously build story template. This would complete the story and make 
-    it meaningful.Okay maybe not meaningful..!XD
+    it meaningful.Okay maybe not meaningful.. but giving you a ROFL for sure !XD
     Check it out to unleash the fun!
-    I have included to story templates--> HARRY POTTER and FRIENDS ....All time favourite of mine and million others..!
+    I have included two story templates--> HARRY POTTER and FRIENDS ....All time favourite of mine and million others..!
    
  ## HIGH-LOW
  ***
     This ones quite the opposite of Computer guess.
     This time computer tricks you into guessing a number(given a range) by giving hints like -> too high /too low /little high /
-    little low.
+    little low till you guess it right..
    
  ## HANGMAN
  ***
