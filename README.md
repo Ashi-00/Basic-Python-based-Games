@@ -12,8 +12,8 @@ Well, with an urge to play, I thought to build something first and play in the p
  like -> its too high/ its too low..
  Tricking the computer this time ;)
  fun..right?  
- There's the link!!  
- [Computer_Guess](/computer_guess)
+ There's the link to the code!!  
+ [Computer_Guess](/computerGuess.py)
     
  ## MADLIBS
  
@@ -22,13 +22,15 @@ Well, with an urge to play, I thought to build something first and play in the p
  would set them in certain missing locations of a previously build story template. This would complete the story and make 
  it meaningful.Okay maybe not meaningful.. but giving you a ROFL for sure !XD
  Check it out to unleash the fun!
- I have included two story templates--> HARRY POTTER and FRIENDS ....All time favourite of mine and million others..!
+ I have included two story templates--> HARRY POTTER and FRIENDS ....All time favourite of mine and million others..!  
+ [madlibs](/madlibs)
    
  ## HIGH-LOW
  
 This ones quite the opposite of Computer guess.
 This time computer tricks you into guessing a number(given a range) by giving hints like -> too high /too low /little high /
-little low till you guess it right..
+little low till you guess it right..  
+[HighLow](/highLow.py)
    
  ## HANGMAN
     
@@ -38,14 +40,16 @@ You have to keep guessing alphabets till you guess the entire word. It does warn
 word or if you entered any illegal character.
 But wait thats not all....
 You also have LIVES!! equal to the length of the word. You shed a life each time you guess the wrong letter. So, you will have 
-to guess the word before you loose all your lives!!
+to guess the word before you loose all your lives!!  
+[Hangman](/hangman)
     
  ## RockPaperScissors
  
 The age old delight itself!
 Well the rules are pretty much the same..(Rock>scissors>paper>rock). You will just enter your choice as r/s/p against a random 
 choice of the computer in a BEST OF THREE!
-Lets see who winss..!
+Lets see who winss..!  
+[RockPaperScissors](/rockPaperScissors.py)
     
     
     
