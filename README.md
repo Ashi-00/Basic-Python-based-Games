@@ -11,7 +11,9 @@ Well, with an urge to play, I thought to build something first and play in the p
  Well you will have to help the computer in guessing a number, you have previously stored in your head by giving hints
  like -> its too high/ its too low..
  Tricking the computer this time ;)
- fun..right?
+ fun..right?  
+ There's the link!!  
+ [Computer_Guess](/computer_guess)
     
  ## MADLIBS
  
